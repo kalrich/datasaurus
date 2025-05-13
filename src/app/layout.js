@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'DataSaurus - Forensic File Input Node',
+  title: 'DataSaurus - Forensic File Input',
   description: 'Upload and manage digital evidence files for forensic analysis',
 };
 
